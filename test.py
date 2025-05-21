@@ -15,3 +15,6 @@ if api_key:
     print(f"API key starts with: {api_key[:4]}...")
 else:
     print("Warning: ANTHROPIC_API_KEY not found in environment variables")
+
+
+dqskdjqskdjqskdjsqkh
